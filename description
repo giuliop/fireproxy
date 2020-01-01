@@ -1,0 +1,8 @@
+By clicking on the extension button on the toolbar you switch between these two states by modifying the browser's proxy settings:
+
+1) no proxy
+
+2) socks5 proxy on localhost port 1080 with proxy for DNS enabled
+
+For the plugin to work you need to set 'Run in Private Windows' to 'Allow' in the Option page (right click on the extension button and choose 'Manage Extension').
+Also, you need to have a socks proxy active, the extension is only switching the browser proxy settings, not providing the proxy itself
