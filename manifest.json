@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "fireproxy",
-    "version": "0.2",
+    "version": "0.31",
 
     "description": "Turn proxy on and off with a click",
 
